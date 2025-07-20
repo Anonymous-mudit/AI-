@@ -37,3 +37,8 @@ PyTorch Deep learning framework used to build and train the CNN model
 OpenCV For loading resizing and processing images
 NumPy To handle numerical operations and image arrays
 Streamlit (optional) To create a simple and interactive web interface (frontend)
+
+🤝 Contributions are welcome! Feel free to open an issue or submit a pull request.
+📬 Got questions, ideas, or feedback? Reach out — I’d love to hear from you!
+⭐ If you like this project, please give it a star! It helps a lot.
+🙌 Thank you for checking out this project! Your support and feedback are greatly appreciated.
